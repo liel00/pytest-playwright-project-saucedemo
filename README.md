@@ -1,5 +1,4 @@
-# Create the README file with the provided content
-readme_content = """
+
 # Pytest Playwright Project Saucedemo
 
 This repository contains a test automation project using Pytest and Playwright for the SauceDemo web application.
